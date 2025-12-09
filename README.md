@@ -32,8 +32,8 @@ Instale todas as dependências usando:
 # Execução
 
 No terminal, entre na pasta src/ e em seguida rode o main.py:
-  cd src
-  python main.py
+  - cd src
+  - python main.py
 
 
 # Fluxo completo:
