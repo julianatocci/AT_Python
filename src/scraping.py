@@ -33,6 +33,3 @@ def obter_filmes(url, n_filmes=25):
       })
   
   return filmes
-
-# for f in filmes[:5]:
-#     print(f"{f['titulo']} ({f['ano']}) – Nota: {f['nota']}")

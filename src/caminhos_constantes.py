@@ -1,6 +1,6 @@
 import os
 
-PASTA_DATA = "data"
+PASTA_DATA = "../data"
 if not os.path.exists(PASTA_DATA):
     os.makedirs(PASTA_DATA)
 
